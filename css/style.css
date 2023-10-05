@@ -1,0 +1,40 @@
+.my-bg{
+   background-image: url("../images/bgskill.jpg");
+ background-color: #cccccc;
+  background-position: center;
+  background-size: cover;
+}
+
+.nav-link{
+  transition: all 0.2s;
+}
+
+.nav-link:hover{
+  border-bottom: 2px solid greenyellow;
+}
+
+
+h1 {
+  font-family: 'Vidaloka', serif;
+}
+
+
+h2{
+  font-family: 'Kaisei Opti', serif;
+font-family: 'Vidaloka', serif;
+}
+
+
+h3 {
+  font-family: 'Kaisei Opti', serif;
+font-family: 'Libre Bodoni', serif;
+font-family: 'Vidaloka', serif;
+}
+
+p {
+  font-family: 'Convergence', sans-serif;
+font-family: 'Kadwa', serif;
+font-family: 'Kaisei Opti', serif;
+font-family: 'Libre Bodoni', serif;
+font-family: 'Vidaloka', serif;
+}
